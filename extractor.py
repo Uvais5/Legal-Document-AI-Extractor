@@ -64,17 +64,21 @@ def analyze_document(text: str, api_key: str) -> LegalDocument:
         and extract structured information according to the schema.
         
         Focus on:
-        1. Definitions: Extract key terms and their definitions.
-        2. Legislative Sections: Identify main sections, their titles, and summaries.
-        3. Eligibility Criteria: Extract specific criteria for eligibility.
-        4. Payment/Entitlements: Identify what payments or entitlements are described and their conditions.
-        5. Record Keeping: Extract any requirements for keeping records or reporting.
-        6. Executive Summary: Generate 5-10 bullet points summarizing the entire Act, specifically covering:
+        1. Purpose: Extract a clear, concise statement of the Act's primary purpose.
+        2. Definitions: Extract key terms and their definitions.
+        3. Responsibilities: Identify responsibilities assigned to different parties.
+        4. Eligibility: Extract specific criteria for eligibility.
+        5. Payments: Identify what payments or entitlements are described.
+        6. Penalties: Identify penalties for non-compliance.
+        7. Record Keeping: Extract any requirements for keeping records or reporting.
+        8. Executive Summary: Generate 5-10 bullet points summarizing the entire Act, specifically covering:
            - Purpose
            - Key definitions
            - Eligibility
            - Obligations
            - Enforcement elements
+           
+           IMPORTANT: Format the Executive Summary as a standard Markdown list using hyphens (-). DO NOT use HTML tags like <ul> or <li>.
         
         Be precise and extract information exactly as stated in the text.
         
