@@ -1,0 +1,118 @@
+{
+  "document_title": "Universal Credit Act 2025",
+  "definitions": [
+    {
+      "term": "the standard allowance",
+      "definition": "the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012"
+    },
+    {
+      "term": "the relevant CPI percentage",
+      "definition": "the percentage by which the consumer prices index for the September before the start of the tax year is higher than it was for the September before that (or 0% if it is not higher)."
+    },
+    {
+      "term": "consumer prices index",
+      "definition": "the all items consumer prices index published by the Statistics Board"
+    },
+    {
+      "term": "the protected LCWRA amount",
+      "definition": "the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013)"
+    },
+    {
+      "term": "pre-2026 claimant",
+      "definition": "a claimant with limited capability for work and work-related activity if the claimant was entitled at any time before 6 April 2026 to an award of universal credit that included the LCWRA element, and has been entitled to an award of universal credit that included the LCWRA element continuously from that time."
+    },
+    {
+      "term": "severe conditions criteria claimant",
+      "definition": "a claimant who has limited capability for work and work-related activity, and at least one of the descriptors set out in Schedule 7 constantly applies to the claimant and will do so for the rest of the claimant\u2019s life, arising from a specific diagnosed bodily disease/disablement or mental illness/disablement."
+    }
+  ],
+  "sections": [
+    {
+      "section_number": "1",
+      "title": "Standard allowance for tax years 2026-27 to 2029-30",
+      "content_summary": "Mandates the Secretary of State to set the minimum standard allowance amounts for the specified tax years by applying a formula based on CPI inflation plus an additional statutory uplift percentage (e.g., 2.3% in 2026-27, rising to 4.8% in 2029-30)."
+    },
+    {
+      "section_number": "2",
+      "title": "LCWRA element for tax year 2026-27",
+      "content_summary": "Amends the Universal Credit Regulations 2013 to introduce a new, specific rate (\u00a3217.26) for the LCWRA element applicable to non-protected claimants starting 6 April 2026."
+    },
+    {
+      "section_number": "3",
+      "title": "Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30",
+      "content_summary": "Disapplies the routine annual up-rating provisions (Section 150 of the SSAA 1992) for the LCWRA element and the LCW element for the duration of the tax years 2026-27 through 2029-30."
+    },
+    {
+      "section_number": "4",
+      "title": "Protected LCWRA amount for tax years 2026-27 to 2029-30",
+      "content_summary": "Requires the Secretary of State to ensure that for protected claimant groups (pre-2026, severe conditions criteria, or terminally ill), the sum of the protected LCWRA amount and the standard allowance increases by at least the relevant CPI percentage each year."
+    },
+    {
+      "section_number": "5",
+      "title": "Legacy employment and support allowance payments",
+      "content_summary": "Applies the uprating rules (similar to Section 1) to the ESA IR personal allowance and freezes the uprating of the ESA IR disability premium, support component, and work-related activity component, while ensuring inflation protection for certain combined legacy ESA sums."
+    },
+    {
+      "section_number": "6",
+      "title": "Corresponding provision for Northern Ireland",
+      "content_summary": "Introduces Schedule 2, which contains corresponding legislative provisions for Northern Ireland to mirror the changes made by the rest of the Act."
+    },
+    {
+      "section_number": "Schedule 1",
+      "title": "Amendments to the Universal Credit Regulations 2013 in connection with new amounts of the LCWRA element",
+      "content_summary": "Details the regulatory changes necessary to implement the new LCWRA claimant categories and definitions, specifically 'pre-2026 claimant' and 'severe conditions criteria claimant', and revises rules regarding assessments for these conditions."
+    }
+  ],
+  "eligibility": [
+    {
+      "criteria": "To be eligible for the Protected LCWRA Amount, a claimant must fall into one of three protected categories: a pre-2026 claimant, a severe conditions criteria claimant, or a claimant who is terminally ill.",
+      "category": "Claimant Status"
+    },
+    {
+      "criteria": "To be a 'pre-2026 claimant', the individual must have been continuously entitled to an award of universal credit that included the LCWRA element since before 6 April 2026.",
+      "category": "Claim History"
+    },
+    {
+      "criteria": "To be a 'severe conditions criteria claimant', the claimant must have limited capability for work and work-related activity and at least one descriptor set out in Schedule 7 must constantly apply and be medically determined to apply for the rest of their life.",
+      "category": "Health/Disability Status"
+    },
+    {
+      "criteria": "Claimants who are not pre-2026, severe conditions criteria claimants, or terminally ill are subject to the new LCWRA element rate (\u00a3217.26 for 2026-27).",
+      "category": "Claimant Status"
+    }
+  ],
+  "entitlements": [
+    {
+      "entitlement_name": "Standard Allowance (Universal Credit) Uprating",
+      "description": "The Secretary of State must ensure the minimum amounts of the standard allowance for tax years 2026-27 to 2029-30 are calculated by increasing the previous year's amount by the relevant CPI percentage plus a specific relevant uplift percentage (2.3% to 4.8%).",
+      "conditions": "Applies to assessment periods commencing on or after the first Monday of the specified tax years."
+    },
+    {
+      "entitlement_name": "LCWRA element (Non-Protected Claimants)",
+      "description": "The amount of the LCWRA element for claimants other than pre-2026 claimants, severe conditions criteria claimants, or terminally ill claimants is set at \u00a3217.26 (for the tax year 2026-27).",
+      "conditions": "Effective from 6 April 2026 in relation to assessment periods commencing on or after that date."
+    },
+    {
+      "entitlement_name": "Protected LCWRA Amount (Inflation Protection)",
+      "description": "The sum of the protected LCWRA amount and the standard allowance must be increased annually by at least the relevant CPI percentage for tax years 2026-27 to 2029-30.",
+      "conditions": "Applies only where the claimant is a pre-2026 claimant, a severe conditions criteria claimant, or terminally ill."
+    },
+    {
+      "entitlement_name": "Legacy ESA IR Personal Allowance Uprating",
+      "description": "The amounts of the income-related Employment and Support Allowance (ESA IR) personal allowance are subject to the same CPI and uplift percentage calculations as the Universal Credit standard allowance for tax years 2026-27 to 2029-30.",
+      "conditions": ""
+    }
+  ],
+  "record_keeping": [],
+  "executive_summary": [
+    "The Act's purpose is to mandate specific rates and calculation rules for the standard allowance and the Limited Capability for Work (LCW/LCWRA) elements of Universal Credit, along with corresponding legacy ESA payments, covering the period 2026-27 to 2029-30.",
+    "The standard allowance is protected against inflation (CPI) and receives a further specific uplift percentage annually (ranging from 2.3% to 4.8%) during the legislative period.",
+    "The standard annual up-rating mechanism (under the Social Security Administration Act 1992) is explicitly suspended for the LCWRA and LCW elements, as well as certain ESA IR components, across the specified tax years.",
+    "The Act introduces a segmentation of LCWRA claimants into 'pre-2026 claimants', 'severe conditions criteria claimants', 'terminally ill claimants' (protected groups), and 'other claimants' (new, potentially receiving a different rate).",
+    "New regulations define a 'severe conditions criteria claimant' as a person with limited capability for work and work-related activity due to a life-long, constantly applicable, diagnosed bodily or mental condition.",
+    "The Secretary of State is obligated to ensure the combined total of the standard allowance and the protected LCWRA amount increases annually by at least the relevant CPI percentage for protected claimant groups.",
+    "For non-protected LCWRA claimants, a specific amount (\u00a3217.26 for 2026-27) is introduced via amendment to the Universal Credit Regulations 2013.",
+    "Similar uprating requirements and freezes are applied to key components of the legacy income-related Employment and Support Allowance (ESA IR).",
+    "Schedule 2 ensures that corresponding benefit provisions and regulatory amendments are implemented in Northern Ireland."
+  ]
+}
