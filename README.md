@@ -67,10 +67,7 @@ streamlit run app.py
 
 The app will open in your browser at `http://localhost:8501`.
 
-1.  Enter your API Key in the sidebar (if not in `.env`).
-2.  Upload a Legal PDF.
-3.  Click **Analyze Document**.
-4.  Explore the tabs and download the JSON report.
+
 
 
 
