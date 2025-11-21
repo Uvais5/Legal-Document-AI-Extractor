@@ -27,8 +27,8 @@ An AI-powered agent that extracts structured data from complex legal documents (
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-folder>
+    git clone https://github.com/Uvais5/Legal-Document-AI-Extractor
+    cd Legal-Document-AI-Extractor
     ```
 
 2.  **Create a virtual environment** (optional but recommended):
@@ -72,9 +72,7 @@ The app will open in your browser at `http://localhost:8501`.
 3.  Click **Analyze Document**.
 4.  Explore the tabs and download the JSON report.
 
-## 🧪 Testing
 
-To run the unit tests for data models and extraction logic:
 
 ```bash
 python test_extraction.py
